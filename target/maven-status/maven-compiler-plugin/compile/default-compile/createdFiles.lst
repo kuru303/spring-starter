@@ -1,0 +1,16 @@
+br/com/mbamobi/wscapes/singleton/Util.class
+br/com/mbamobi/wscapes/entity/UserRole.class
+br/com/mbamobi/wscapes/dao/UserRepository.class
+br/com/mbamobi/wscapes/service/PessoaService.class
+br/com/mbamobi/wscapes/dao/PessoaRepository.class
+br/com/mbamobi/wscapes/controller/UserController.class
+br/com/mbamobi/wscapes/SwaggerConfig.class
+br/com/mbamobi/wscapes/dto/AlteraSenhaDTO.class
+br/com/mbamobi/wscapes/Application.class
+br/com/mbamobi/wscapes/entity/User.class
+br/com/mbamobi/wscapes/dto/LoginResponseDTO.class
+br/com/mbamobi/wscapes/entity/Pessoa.class
+br/com/mbamobi/wscapes/singleton/Util$1.class
+br/com/mbamobi/wscapes/service/UserService.class
+br/com/mbamobi/wscapes/SecurityConfig.class
+br/com/mbamobi/wscapes/converter/BooleanToSimNaoConverter.class

@@ -1,0 +1,15 @@
+/Users/adrianolacerdafrancomelooliveira/Documents/workspace/JAVA/wscapes/src/main/java/br/com/mbamobi/wscapes/entity/UserRole.java
+/Users/adrianolacerdafrancomelooliveira/Documents/workspace/JAVA/wscapes/src/main/java/br/com/mbamobi/wscapes/entity/Pessoa.java
+/Users/adrianolacerdafrancomelooliveira/Documents/workspace/JAVA/wscapes/src/main/java/br/com/mbamobi/wscapes/dao/PessoaRepository.java
+/Users/adrianolacerdafrancomelooliveira/Documents/workspace/JAVA/wscapes/src/main/java/br/com/mbamobi/wscapes/service/UserService.java
+/Users/adrianolacerdafrancomelooliveira/Documents/workspace/JAVA/wscapes/src/main/java/br/com/mbamobi/wscapes/SwaggerConfig.java
+/Users/adrianolacerdafrancomelooliveira/Documents/workspace/JAVA/wscapes/src/main/java/br/com/mbamobi/wscapes/singleton/Util.java
+/Users/adrianolacerdafrancomelooliveira/Documents/workspace/JAVA/wscapes/src/main/java/br/com/mbamobi/wscapes/dto/AlteraSenhaDTO.java
+/Users/adrianolacerdafrancomelooliveira/Documents/workspace/JAVA/wscapes/src/main/java/br/com/mbamobi/wscapes/dto/LoginResponseDTO.java
+/Users/adrianolacerdafrancomelooliveira/Documents/workspace/JAVA/wscapes/src/main/java/br/com/mbamobi/wscapes/SecurityConfig.java
+/Users/adrianolacerdafrancomelooliveira/Documents/workspace/JAVA/wscapes/src/main/java/br/com/mbamobi/wscapes/dao/UserRepository.java
+/Users/adrianolacerdafrancomelooliveira/Documents/workspace/JAVA/wscapes/src/main/java/br/com/mbamobi/wscapes/Application.java
+/Users/adrianolacerdafrancomelooliveira/Documents/workspace/JAVA/wscapes/src/main/java/br/com/mbamobi/wscapes/service/PessoaService.java
+/Users/adrianolacerdafrancomelooliveira/Documents/workspace/JAVA/wscapes/src/main/java/br/com/mbamobi/wscapes/entity/User.java
+/Users/adrianolacerdafrancomelooliveira/Documents/workspace/JAVA/wscapes/src/main/java/br/com/mbamobi/wscapes/controller/UserController.java
+/Users/adrianolacerdafrancomelooliveira/Documents/workspace/JAVA/wscapes/src/main/java/br/com/mbamobi/wscapes/converter/BooleanToSimNaoConverter.java
